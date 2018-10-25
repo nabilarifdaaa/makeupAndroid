@@ -51,4 +51,13 @@
         android:layout_margin="16dp"
         android:clickable="true"
         android:src="@drawable/ic_add" />
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/buttonLogout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="325dp"
+        android:layout_marginBottom="16dp"
+        android:clickable="true"
+        android:src="@drawable/ic_cancel" />
 </android.support.design.widget.CoordinatorLayout>

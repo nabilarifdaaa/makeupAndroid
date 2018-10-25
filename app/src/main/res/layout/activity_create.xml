@@ -32,6 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <EditText
+                android:id="@+id/edit_nama"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/editext_crud"
@@ -43,6 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <EditText
+                android:id="@+id/edit_jenis"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/editext_crud"
@@ -53,6 +55,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <EditText
+                android:id="@+id/edit_harga"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/editext_crud"
@@ -64,6 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <EditText
+                android:id="@+id/edit_deskripsi"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 style="@style/editext_crud"
